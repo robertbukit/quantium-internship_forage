@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+quantium/          
+.DS_Store
+
+# OS
+Thumbs.db
